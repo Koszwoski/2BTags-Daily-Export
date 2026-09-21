@@ -1,0 +1,1931 @@
+{
+    "players": [
+        {
+            "uuid": "589eb426-6867-404b-a218-d130f7849fc2",
+            "groups": [
+                {
+                    "slug": "lootlords",
+                    "isPrimary": true,
+                    "displayName": "Loot Lords",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "420autumn"
+        },
+        {
+            "uuid": "4d45d3b5-5a97-4f68-aa23-fd47d0a46536",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "87ac"
+        },
+        {
+            "uuid": "48dfb631-b65b-4df6-ba01-670c57001f60",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "ANTIAFK_0420"
+        },
+        {
+            "uuid": "35facc3f-7426-4050-80b6-fb2b761477e8",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Ace"
+        },
+        {
+            "uuid": "26b3d9aa-848c-4f7c-b84c-1fc90cb297fa",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Alexandra_3"
+        },
+        {
+            "uuid": "ae05ec89-a28d-47c3-b8ac-e080c2751d53",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Arby"
+        },
+        {
+            "uuid": "a1455ac6-8ca3-4cab-a773-bd07a3f7cd80",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Asphyxia"
+        },
+        {
+            "uuid": "c30e8bb6-ae50-438a-81e4-07abf389f400",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Ayumeii"
+        },
+        {
+            "uuid": "31be0ac7-d5d1-4413-be2a-cbf901a8f97c",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Baconator"
+        },
+        {
+            "uuid": "cdf25e56-0db1-4492-a76c-32dc43e65d6b",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Beardo"
+        },
+        {
+            "uuid": "f1a0525f-4500-4fd5-8c35-1cf165d2b55b",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Bezopasan"
+        },
+        {
+            "uuid": "1cf5e3dc-9b3b-48bd-9e35-312523baed1a",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "BigGreasyEgg"
+        },
+        {
+            "uuid": "5de69af0-e9b0-4f37-b982-9a491303c6a5",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "BlockMaster348"
+        },
+        {
+            "uuid": "f928f83d-f4b1-4748-a9bf-9daf35c57492",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "BryceDey"
+        },
+        {
+            "uuid": "366345e7-dae9-421e-83af-e9bbd91c5e51",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "CEAJ"
+        },
+        {
+            "uuid": "2520a694-7cb4-4ec6-a3f5-0c2e556cad15",
+            "groups": [
+                {
+                    "slug": "lootlords",
+                    "isPrimary": true,
+                    "displayName": "Loot Lords",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "CaptainDoinEr"
+        },
+        {
+            "uuid": "6cb2b1dc-f7de-4671-8002-96c2470b6d75",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Carti_tryhard"
+        },
+        {
+            "uuid": "cd3cc6fb-f056-4cc5-a5f2-422bf3703110",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Cattyn"
+        },
+        {
+            "uuid": "4cb07559-1fd1-4edd-bab4-a5a733a1d135",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Chuck"
+        },
+        {
+            "uuid": "da76b642-ed7f-4450-acc7-51b8524b7248",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "CloudyAbyss"
+        },
+        {
+            "uuid": "39629f6c-4ade-466d-8836-84c137e6e8f2",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Cody4687"
+        },
+        {
+            "uuid": "7c678aca-6baa-492d-bc02-21503d194246",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Constellation667"
+        },
+        {
+            "uuid": "d429d8fe-3379-494b-b690-e8dbbbb1b1bc",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "CurlysCurlys"
+        },
+        {
+            "uuid": "07056bb0-c368-45d1-88a6-6bcea4f6f18b",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "DanDucky"
+        },
+        {
+            "uuid": "d8054d6c-5291-4ab6-bdf8-562ad19f3e30",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Deity456"
+        },
+        {
+            "uuid": "9ff6510a-6e79-4977-8d2b-443ec059c703",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "DoritoBob777"
+        },
+        {
+            "uuid": "ad3195a8-1888-44d7-9d61-5bddacfa8b8f",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "EastAlpha"
+        },
+        {
+            "uuid": "d3ecdea3-ad0c-42d8-aeb3-5c91ab8d68ae",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Eavox"
+        },
+        {
+            "uuid": "13845fc1-dec7-414a-acb0-da1342bb9bed",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "ElmoV2"
+        },
+        {
+            "uuid": "a6dda112-4ee8-4a5f-a5d5-e8fadb76e3de",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "EnderKill98"
+        },
+        {
+            "uuid": "e2909dfe-7ab1-4e98-a06d-32c1ab88df51",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Etbes"
+        },
+        {
+            "uuid": "3cfbed76-d87a-4bfc-8ca4-d9966a1fde7c",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Eternal02"
+        },
+        {
+            "uuid": "46ae5db5-71a9-4f61-85e6-cc289793c000",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "FIRECATinBLACK"
+        },
+        {
+            "uuid": "7ecfad64-6979-486b-ae84-491b1e6235b1",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "FamilyPumpkin"
+        },
+        {
+            "uuid": "b0c4cacc-8029-4ff5-8a15-b9d4274a58ff",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "FeSis"
+        },
+        {
+            "uuid": "1d5f4f4c-dd38-49ca-ae24-45e2283d9362",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Flyy__"
+        },
+        {
+            "uuid": "30da94a6-eb29-44cc-aa4c-cd243e9dc614",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Fresh_Herbs"
+        },
+        {
+            "uuid": "f0c9bfe7-ad8d-41ec-910b-565bf484cb5e",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Fruit54"
+        },
+        {
+            "uuid": "4f8b5fca-a100-4eff-af81-2b0da181292a",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Fxking_josh"
+        },
+        {
+            "uuid": "e19c1cb2-3986-46cd-a8d5-3f60e13b7b51",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Gem_Productions"
+        },
+        {
+            "uuid": "ebaf5c03-006e-4f49-ab30-d206afce36c6",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Gravytrain"
+        },
+        {
+            "uuid": "335b4b2b-2dd7-4a9b-bc3e-4cc19b035f35",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Grim3169"
+        },
+        {
+            "uuid": "4ae6eb9e-6fcf-4f0f-baf4-c269223ce723",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "H202"
+        },
+        {
+            "uuid": "6b84f8c6-26b2-493b-8ac4-9ca3783e95a5",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Harrissssonn"
+        },
+        {
+            "uuid": "29d36bba-c25f-41c9-83c7-1969f7d19e01",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "HighAtWork"
+        },
+        {
+            "uuid": "afee93d3-af84-4525-9cfd-97c835405a4b",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Hovecs"
+        },
+        {
+            "uuid": "fd04e3e6-16a9-4755-bf69-7ee55ed4766b",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "IHackedWalmart"
+        },
+        {
+            "uuid": "33fc0245-da59-4ffc-9de8-7c648cfb0eb7",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "IKEAMeatballs"
+        },
+        {
+            "uuid": "a2d7f5c9-488b-41f6-a074-48b8b14a8c0e",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Infrays"
+        },
+        {
+            "uuid": "19e577b1-9cba-4f90-a936-6eda8864e5ed",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Jackson_Ramsay"
+        },
+        {
+            "uuid": "bac78aea-dbc7-44cf-b7c2-9ed74559942e",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "John200410"
+        },
+        {
+            "uuid": "900e831d-96d6-4038-a88d-376dddab0e5b",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "K_Bob"
+        },
+        {
+            "uuid": "55f5c1ff-fa00-43d9-bb6e-bc3e11ef38d8",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "KoolMen"
+        },
+        {
+            "uuid": "4dad2ffd-e8af-4e72-b29e-5d500b82c350",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 1
+                }
+            ],
+            "username": "Koszwoski"
+        },
+        {
+            "uuid": "e5bfa2d2-f43e-490d-9451-2082f83f0832",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "KrazyKrewYT"
+        },
+        {
+            "uuid": "7c622369-5cfe-412e-982f-78d7b8d4a17d",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "L1GH7ER"
+        },
+        {
+            "uuid": "40aa0ffc-eabe-4071-9309-d733fe089243",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Livix"
+        },
+        {
+            "uuid": "c79a49c9-f9d2-43e6-8b66-03fab46d6875",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Lizinatorr"
+        },
+        {
+            "uuid": "7eaa19ea-8ac9-4139-86a8-dea74a1b0b86",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "LordKai1"
+        },
+        {
+            "uuid": "12b52f18-2eb8-4a72-80b1-a1aca27ff033",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Lord_Mahan"
+        },
+        {
+            "uuid": "11369e4a-e1f2-4bdc-952b-a73a890fa09c",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "LuckyyGoose"
+        },
+        {
+            "uuid": "b7d65c5a-d64c-4727-8097-20993c2c4820",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "LumberA52"
+        },
+        {
+            "uuid": "5e2dfe02-dd05-4737-94d2-075d19f594aa",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MagicEx"
+        },
+        {
+            "uuid": "64e08133-6d59-44f7-a1a2-76346c6506dd",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MajorasEnd"
+        },
+        {
+            "uuid": "ca166783-afef-4738-ae97-64407aacc0c0",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Marconi_"
+        },
+        {
+            "uuid": "c270d340-c22e-49e0-9ce6-5bdbf39d61e7",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Mars"
+        },
+        {
+            "uuid": "267d2456-7d40-4ed4-931b-5188475523f4",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Mega"
+        },
+        {
+            "uuid": "650eb376-8afb-431e-9278-3c934f7ca4a3",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MelisaBlomst"
+        },
+        {
+            "uuid": "27147fdf-243a-4d03-8cbb-a2c2e681bd10",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Midland"
+        },
+        {
+            "uuid": "632eddc3-08c3-4822-b877-23b30d2d98e0",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Movack"
+        },
+        {
+            "uuid": "214f2fda-3ae5-4f9f-b0c2-10e76d6c2033",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MrFishx"
+        },
+        {
+            "uuid": "539149d5-c09a-4c49-929e-6e3262a02507",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MrSourkiwi"
+        },
+        {
+            "uuid": "278958d1-a61e-4da6-b139-ce0f2a880876",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "N8TT"
+        },
+        {
+            "uuid": "df498272-e82c-4952-a4a2-eccc1d367c61",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Naughty"
+        },
+        {
+            "uuid": "9fa4771c-1b0c-4819-aa18-69faa5f9026a",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "NeedsSoda"
+        },
+        {
+            "uuid": "290bcd4a-edd3-4b13-bfce-81121f5f5432",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Negative_Entropy"
+        },
+        {
+            "uuid": "e08d5690-de0d-428a-a74a-8cbb849036a5",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Osaka"
+        },
+        {
+            "uuid": "d6b9e6da-e07c-4af8-a371-f78ec43d23b3",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Osmobyte"
+        },
+        {
+            "uuid": "7d195e7e-2579-4e81-96d6-dcaa8fdb5866",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "OutOfNowhere"
+        },
+        {
+            "uuid": "8f882052-2a41-4723-92ae-992fdfd74bdb",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Paperrobber9000"
+        },
+        {
+            "uuid": "d05033fc-377d-48e5-81b0-baa6440f5228",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Paulsteve007"
+        },
+        {
+            "uuid": "15b1ba33-639d-440c-ad9a-8af9f74f77b9",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "PhilipPanda"
+        },
+        {
+            "uuid": "fda03d56-67f0-46dc-9e2a-0922f6fc139d",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Philipp"
+        },
+        {
+            "uuid": "34a67d07-9afc-4620-9708-24254ae0e362",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Qsp"
+        },
+        {
+            "uuid": "22165736-8ac6-4a3e-88d2-f9a97df2d3ca",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Rah4"
+        },
+        {
+            "uuid": "2b8c328b-2055-47db-ac73-2d9c3dbdbd57",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Ranlen"
+        },
+        {
+            "uuid": "ad1bbfbe-a97f-4761-87ac-071e444380a6",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "RepliK"
+        },
+        {
+            "uuid": "77ebab2c-7e1a-4337-97d2-4b73ddf6d5dc",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "S1ashr"
+        },
+        {
+            "uuid": "3884edd3-ec3b-44ec-98a4-b55c0d507ccf",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Sago"
+        },
+        {
+            "uuid": "e1bde6a0-0444-4fc6-98d9-88c7778d6a01",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Sh0t"
+        },
+        {
+            "uuid": "1d735cda-671f-4866-b11f-2f51f799867b",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "ShayBox"
+        },
+        {
+            "uuid": "cd74ac9e-d8d8-4a95-9f4d-d0ffa389ed39",
+            "groups": [
+                {
+                    "slug": "thedevs",
+                    "isPrimary": true,
+                    "displayName": "The Devs",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "SirTotem"
+        },
+        {
+            "uuid": "928ef91f-b6b6-4386-9bc6-105c4c9a7a99",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Skxlxrd"
+        },
+        {
+            "uuid": "afbc70b5-c4fe-4f5a-8893-52a3d3e68fa3",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Smoked"
+        },
+        {
+            "uuid": "435f5574-7e4c-49d7-8acd-cd29786a21ac",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Snootdewoot"
+        },
+        {
+            "uuid": "677ff330-f462-422b-8b17-fe8fc70cba2d",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Stalpo"
+        },
+        {
+            "uuid": "3062e6ee-e4b3-41af-bf41-ae29921bda6a",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "SwisherSurgeon"
+        },
+        {
+            "uuid": "44782a00-5000-4f62-bf63-9ac3c3a07536",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Takeouts"
+        },
+        {
+            "uuid": "3cea6835-bad7-4865-b6b7-f82131e87f88",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Tas"
+        },
+        {
+            "uuid": "017e2785-a655-4e84-9a9f-f2d9829447b4",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "TheDark_Emperor"
+        },
+        {
+            "uuid": "ff98b207-70c6-480a-a823-28285d51d305",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "TockTick"
+        },
+        {
+            "uuid": "4d01d25b-66ca-41fe-b310-d3d0e8b75fc8",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Tonepa"
+        },
+        {
+            "uuid": "57a8c66a-aa6a-49ea-9d29-d2a9d3f882bc",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Traveeseemo"
+        },
+        {
+            "uuid": "439298ce-de78-4144-9d2f-b81550a47876",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Twinkylion"
+        },
+        {
+            "uuid": "83d24303-8050-4280-a59f-d7f5a525e009",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "UncoChad"
+        },
+        {
+            "uuid": "da9eecb1-a370-496d-a0dc-6ea516197aee",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Upward"
+        },
+        {
+            "uuid": "790b9973-3b65-43c8-b9c1-30e92b8978fd",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Utkanowski"
+        },
+        {
+            "uuid": "aa1798ef-556b-408d-8e04-4007fc45c464",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "VapePens"
+        },
+        {
+            "uuid": "31ec6669-ffd2-44d4-a598-1bda0841236b",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WaveShift"
+        },
+        {
+            "uuid": "ab312545-9aca-4a7e-936b-77147da38cd7",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WednesdayAtWork"
+        },
+        {
+            "uuid": "2ba6f46e-ef30-4060-a019-5832045e2110",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WetBones_"
+        },
+        {
+            "uuid": "1cdd04c9-b0a2-41a9-90a4-e3fbffc2ab41",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WhiteAtlas"
+        },
+        {
+            "uuid": "0621a263-71fe-4284-a901-4185dca9e7e5",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WitchOfIzalith"
+        },
+        {
+            "uuid": "81b19301-3e7e-4453-bf1c-bf8b44039175",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "YoItsMilan"
+        },
+        {
+            "uuid": "7e4d4671-eb0b-427c-b94a-64a020daf1fa",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "YoMoBoYo"
+        },
+        {
+            "uuid": "3f775be2-1e11-41c4-bba2-13aca49a5010",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "_xque"
+        },
+        {
+            "uuid": "e5b09978-de72-45d3-aedd-4c0340293fc1",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "applepopbob"
+        },
+        {
+            "uuid": "aa10a352-a7c0-4038-9a16-784fb5b6a88a",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "baitpl"
+        },
+        {
+            "uuid": "96b6aad4-01a1-4392-9b92-565b4d4d5627",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "bobbers22"
+        },
+        {
+            "uuid": "16f266c5-8b0f-441f-8647-53c9f9600847",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "catgirlMatty"
+        },
+        {
+            "uuid": "faea9d8b-b6de-4855-91ac-9a884fee8836",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "chiekn"
+        },
+        {
+            "uuid": "6d5453d0-9336-4801-9392-d8cf5e4136e2",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "crxyne"
+        },
+        {
+            "uuid": "eacb44ab-ebcc-4ba4-aa3d-ca2fba3edada",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "cs_italy"
+        },
+        {
+            "uuid": "29674683-1648-49b8-808d-e185cbcc9558",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "davvvvvy"
+        },
+        {
+            "uuid": "8c24f80e-6aa0-4ae7-9ad3-c6a562d2f303",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "eggking"
+        },
+        {
+            "uuid": "76d55468-4c12-495f-8a61-e76fea1b52d2",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "ersatz__"
+        },
+        {
+            "uuid": "95c3123f-5616-4edb-9c65-1ceba9cb7db6",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "expunged"
+        },
+        {
+            "uuid": "4f570d2e-597a-4208-9381-eb7b8e004e1e",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "eyelll"
+        },
+        {
+            "uuid": "d5f8275c-7cb1-406e-b71d-d4e4e5fc82f6",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "folkhack"
+        },
+        {
+            "uuid": "824dcf2f-39db-4607-8f66-625913d319f0",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "furleoxnop"
+        },
+        {
+            "uuid": "fa114ddb-dd2e-46f6-b1e8-e23f5b9d74a0",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "hank0555"
+        },
+        {
+            "uuid": "29fa11fd-5452-4db2-9405-22a63658e464",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "hardboiledmegs"
+        },
+        {
+            "uuid": "73731f88-d268-4549-86c6-58f145abdd8b",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "i23d1x"
+        },
+        {
+            "uuid": "3a53b798-dd71-407e-a3cf-c2d4d113c582",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "iLLiXXXr"
+        },
+        {
+            "uuid": "2d3e440e-b764-41b4-9aa5-ebcf1cd87ac4",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "immeeerkat"
+        },
+        {
+            "uuid": "2952a1c2-f175-4dcc-87f8-3f0f37a7765b",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "immeerkat"
+        },
+        {
+            "uuid": "ccdd79f1-2317-465a-9636-6b8cccf4dbe9",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "irbmonkey1"
+        },
+        {
+            "uuid": "8b3007c7-1c92-4ded-b5fc-1bcf2247327f",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "jackafa_"
+        },
+        {
+            "uuid": "a70696d8-b257-4084-a115-1556f8456d2d",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "joecool2012"
+        },
+        {
+            "uuid": "17c3c731-f5c5-4481-871d-723d59d0faa0",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "lukent"
+        },
+        {
+            "uuid": "d94505c5-5416-4f91-b3dc-77807049a0f7",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "maliktheking"
+        },
+        {
+            "uuid": "53d8eee7-9c71-4d24-a1f7-19362550a884",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "metalbunny"
+        },
+        {
+            "uuid": "5a9f36cc-30d0-45de-82ec-7476851a8375",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "miiver"
+        },
+        {
+            "uuid": "0d12730f-f2af-4883-95eb-484beb66edb3",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "minecraft_simon"
+        },
+        {
+            "uuid": "7d07c518-9bcd-431d-b100-cf26098f1d06",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "myeo"
+        },
+        {
+            "uuid": "755b5d30-b3e2-432e-a093-b2a4bf10f068",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "neiljojo"
+        },
+        {
+            "uuid": "64c70489-abaf-468c-8963-cf771e8b11e2",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "phi"
+        },
+        {
+            "uuid": "68717157-0d7e-46b7-8266-3af6ecc779cc",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "postto"
+        },
+        {
+            "uuid": "f0fcaa31-177a-4e36-bf8a-c0ba127ebb68",
+            "groups": [
+            ],
+            "username": "qu1r"
+        },
+        {
+            "uuid": "bf775b81-1fae-40a1-b967-95ea5da0404e",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "riths"
+        },
+        {
+            "uuid": "a380de1f-d22b-476e-ba48-cb1f19b95a1f",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "rootbeerguy1212"
+        },
+        {
+            "uuid": "ead47335-56ff-4425-882d-caf9d55799a1",
+            "groups": [
+                {
+                    "slug": "spawnbuildersassociation",
+                    "isPrimary": true,
+                    "displayName": "Spawn Builders Association",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "rrdrock"
+        },
+        {
+            "uuid": "1353a832-033d-4820-b383-0044f6804f90",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "saff_cozzie"
+        },
+        {
+            "uuid": "18dc98d7-1b79-43d7-9fc5-461ca74cabdd",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "sanuty"
+        },
+        {
+            "uuid": "785227c9-25db-4676-bad4-a9099fe86478",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "slingbla"
+        },
+        {
+            "uuid": "c2b68107-bb38-48d0-abde-a9a0b58cc44d",
+            "groups": [
+                {
+                    "slug": "enclave",
+                    "isPrimary": true,
+                    "displayName": "Enclave",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "steve3"
+        },
+        {
+            "uuid": "825db5ed-f8ba-4f62-a729-9182e2b44789",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "surfinpacific"
+        },
+        {
+            "uuid": "de343b48-a0c5-4e84-8303-04c703afbe57",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "theoplegends"
+        },
+        {
+            "uuid": "af94a31c-de14-4667-8cd6-e99bf3dc3973",
+            "groups": [
+                {
+                    "slug": "vapepenselitealliance",
+                    "isPrimary": true,
+                    "displayName": "Vapepens Elite Alliance",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "unworthypossum"
+        },
+        {
+            "uuid": "96067fb6-f9dc-47b7-8206-c457d164d928",
+            "groups": [
+                {
+                    "slug": "emperium",
+                    "isPrimary": true,
+                    "displayName": "Emperium",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "vhakan"
+        },
+        {
+            "uuid": "0bf55022-5e58-44ec-be17-6d12d6bbb918",
+            "groups": [
+                {
+                    "slug": "journeymen",
+                    "isPrimary": true,
+                    "displayName": "Journeymen",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "xrayessay"
+        }
+    ],
+    "schemaVersion": 1
+}
