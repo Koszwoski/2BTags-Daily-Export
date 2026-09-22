@@ -296,6 +296,12 @@
                     "isPrimary": true,
                     "displayName": "Divinity",
                     "displayOrder": 0
+                },
+                {
+                    "slug": "newspawnorder",
+                    "isPrimary": false,
+                    "displayName": "New Spawn Order",
+                    "displayOrder": 1
                 }
             ],
             "username": "Deity456"
