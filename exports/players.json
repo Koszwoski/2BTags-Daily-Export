@@ -1,6 +1,18 @@
 {
     "players": [
         {
+            "uuid": "c977693c-26aa-4d71-8c3f-e477bc58c30c",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "0zzu"
+        },
+        {
             "uuid": "589eb426-6867-404b-a218-d130f7849fc2",
             "groups": [
                 {
@@ -35,6 +47,18 @@
                 }
             ],
             "username": "ANTIAFK_0420"
+        },
+        {
+            "uuid": "8a540a6e-f3db-4e77-b098-2afcd4aa9497",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "AbyssV7"
         },
         {
             "uuid": "35facc3f-7426-4050-80b6-fb2b761477e8",
@@ -97,6 +121,18 @@
             "username": "Ayumeii"
         },
         {
+            "uuid": "7ceb3899-b62b-4b59-be21-a199a09338bb",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "BLOCK567"
+        },
+        {
             "uuid": "31be0ac7-d5d1-4413-be2a-cbf901a8f97c",
             "groups": [
                 {
@@ -133,6 +169,18 @@
             "username": "Bezopasan"
         },
         {
+            "uuid": "0c343cd1-affb-473e-992f-67dd9e8bd231",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Bhev"
+        },
+        {
             "uuid": "1cf5e3dc-9b3b-48bd-9e35-312523baed1a",
             "groups": [
                 {
@@ -157,6 +205,18 @@
             "username": "BlockMaster348"
         },
         {
+            "uuid": "eef82173-6937-4f83-80f7-36e6cda0bef2",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Blood_Of_Christ"
+        },
+        {
             "uuid": "f928f83d-f4b1-4748-a9bf-9daf35c57492",
             "groups": [
                 {
@@ -167,6 +227,18 @@
                 }
             ],
             "username": "BryceDey"
+        },
+        {
+            "uuid": "a457e5d3-1821-44c1-9ed8-b864a03268d4",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "BurnOn"
         },
         {
             "uuid": "366345e7-dae9-421e-83af-e9bbd91c5e51",
@@ -188,6 +260,12 @@
                     "isPrimary": true,
                     "displayName": "Loot Lords",
                     "displayOrder": 0
+                },
+                {
+                    "slug": "divinity",
+                    "isPrimary": false,
+                    "displayName": "Divinity",
+                    "displayOrder": 1
                 }
             ],
             "username": "CaptainDoinEr"
@@ -229,6 +307,18 @@
             "username": "Chuck"
         },
         {
+            "uuid": "07de1bc3-20de-4095-95c0-706ee6b0586d",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Cloudy2b2t"
+        },
+        {
             "uuid": "da76b642-ed7f-4450-acc7-51b8524b7248",
             "groups": [
                 {
@@ -239,6 +329,18 @@
                 }
             ],
             "username": "CloudyAbyss"
+        },
+        {
+            "uuid": "1d2cfcdb-8491-421c-aa63-781b0f93d487",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "CloudyV3"
         },
         {
             "uuid": "39629f6c-4ade-466d-8836-84c137e6e8f2",
@@ -277,6 +379,18 @@
             "username": "CurlysCurlys"
         },
         {
+            "uuid": "3d852b5b-0ce6-4c98-b4e7-cab14adce418",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "DASEBDUDE"
+        },
+        {
             "uuid": "07056bb0-c368-45d1-88a6-6bcea4f6f18b",
             "groups": [
                 {
@@ -287,6 +401,18 @@
                 }
             ],
             "username": "DanDucky"
+        },
+        {
+            "uuid": "9da0befa-73e6-4bce-afee-257ceda660a4",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "DankCrafts"
         },
         {
             "uuid": "d8054d6c-5291-4ab6-bdf8-562ad19f3e30",
@@ -305,6 +431,30 @@
                 }
             ],
             "username": "Deity456"
+        },
+        {
+            "uuid": "77e62ff6-6934-4222-aa12-c2146a87636d",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Divinity2b2t"
+        },
+        {
+            "uuid": "26e576eb-bbc3-4aeb-9220-50ae0e5db30c",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "DivinityXP"
         },
         {
             "uuid": "9ff6510a-6e79-4977-8d2b-443ec059c703",
@@ -415,6 +565,18 @@
             "username": "FamilyPumpkin"
         },
         {
+            "uuid": "61fc8ba0-36ad-468a-bfae-377e65707710",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Fatsx"
+        },
+        {
             "uuid": "b0c4cacc-8029-4ff5-8a15-b9d4274a58ff",
             "groups": [
                 {
@@ -487,6 +649,18 @@
             "username": "Gem_Productions"
         },
         {
+            "uuid": "807cfd6a-0873-4a9c-b751-974b1e13df29",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "GetSpleefed"
+        },
+        {
             "uuid": "ebaf5c03-006e-4f49-ab30-d206afce36c6",
             "groups": [
                 {
@@ -521,6 +695,18 @@
                 }
             ],
             "username": "H202"
+        },
+        {
+            "uuid": "df22b353-a4da-4292-a6ed-f60e693615da",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "HWD"
         },
         {
             "uuid": "6b84f8c6-26b2-493b-8ac4-9ca3783e95a5",
@@ -595,6 +781,18 @@
             "username": "Infrays"
         },
         {
+            "uuid": "b0d22362-b957-4721-a28c-cfe0c77f2854",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Iwork_for_mojang"
+        },
+        {
             "uuid": "19e577b1-9cba-4f90-a936-6eda8864e5ed",
             "groups": [
                 {
@@ -607,6 +805,54 @@
             "username": "Jackson_Ramsay"
         },
         {
+            "uuid": "b06fffc0-3567-44ed-ae1b-854fafbf98bf",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Jadan"
+        },
+        {
+            "uuid": "7dec62a3-3908-469c-b132-892d55775afc",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "JaidenOK"
+        },
+        {
+            "uuid": "3cd87381-84a1-4a13-bac3-16afaeb0b778",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Jakerus"
+        },
+        {
+            "uuid": "d947a334-2186-48b1-b8e5-c0dbaa3a4751",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Jobisaki"
+        },
+        {
             "uuid": "bac78aea-dbc7-44cf-b7c2-9ed74559942e",
             "groups": [
                 {
@@ -617,6 +863,30 @@
                 }
             ],
             "username": "John200410"
+        },
+        {
+            "uuid": "bf819788-b2d4-4a1e-9642-2d9bcd09046f",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Jrocket222"
+        },
+        {
+            "uuid": "13e571bc-39c2-4c85-8ab3-23cbec2718c4",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "KLoveer"
         },
         {
             "uuid": "900e831d-96d6-4038-a88d-376dddab0e5b",
@@ -638,6 +908,12 @@
                     "isPrimary": true,
                     "displayName": "Emperium",
                     "displayOrder": 0
+                },
+                {
+                    "slug": "divinity",
+                    "isPrimary": false,
+                    "displayName": "Divinity",
+                    "displayOrder": 1
                 }
             ],
             "username": "KoolMen"
@@ -751,6 +1027,18 @@
             "username": "LumberA52"
         },
         {
+            "uuid": "faf39796-e10f-485b-bf79-29b28b3d64a9",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "LumiiGG"
+        },
+        {
             "uuid": "5e2dfe02-dd05-4737-94d2-075d19f594aa",
             "groups": [
                 {
@@ -775,6 +1063,30 @@
             "username": "MajorasEnd"
         },
         {
+            "uuid": "2bf07792-e566-4e67-bc9c-2abb98835b05",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "MalexTheLion"
+        },
+        {
+            "uuid": "7e6f825f-5b41-4c64-b747-459823d86697",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Map_Arts"
+        },
+        {
             "uuid": "ca166783-afef-4738-ae97-64407aacc0c0",
             "groups": [
                 {
@@ -797,6 +1109,18 @@
                 }
             ],
             "username": "Mars"
+        },
+        {
+            "uuid": "1715d983-aabe-4b7f-9c48-2afb886928b2",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Marsh008"
         },
         {
             "uuid": "267d2456-7d40-4ed4-931b-5188475523f4",
@@ -869,6 +1193,18 @@
                 }
             ],
             "username": "MrSourkiwi"
+        },
+        {
+            "uuid": "8b6e1d92-f9b8-4811-9d37-ba3511032f19",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Mylast20bucks"
         },
         {
             "uuid": "278958d1-a61e-4da6-b139-ce0f2a880876",
@@ -1051,6 +1387,18 @@
             "username": "RepliK"
         },
         {
+            "uuid": "b8991efd-479f-43e3-b183-786e1b5f070b",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Rido97"
+        },
+        {
             "uuid": "77ebab2c-7e1a-4337-97d2-4b73ddf6d5dc",
             "groups": [
                 {
@@ -1123,6 +1471,18 @@
             "username": "Skxlxrd"
         },
         {
+            "uuid": "e1337e90-7fdb-4aae-9e69-2d73254514be",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Slulu"
+        },
+        {
             "uuid": "afbc70b5-c4fe-4f5a-8893-52a3d3e68fa3",
             "groups": [
                 {
@@ -1193,6 +1553,18 @@
                 }
             ],
             "username": "Tas"
+        },
+        {
+            "uuid": "a6f81703-2cdb-4a87-9da1-f27b974ec62b",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "TendoPain40"
         },
         {
             "uuid": "017e2785-a655-4e84-9a9f-f2d9829447b4",
@@ -1303,6 +1675,18 @@
             "username": "VapePens"
         },
         {
+            "uuid": "03aa368a-c0dc-46a6-a82a-577621ec0ec5",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "WHIT22"
+        },
+        {
             "uuid": "31ec6669-ffd2-44d4-a598-1bda0841236b",
             "groups": [
                 {
@@ -1363,6 +1747,18 @@
             "username": "WitchOfIzalith"
         },
         {
+            "uuid": "df4c4f9e-f2f7-492e-8c9a-85d2adba461a",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "XxxBassBudMxxX"
+        },
+        {
             "uuid": "81b19301-3e7e-4453-bf1c-bf8b44039175",
             "groups": [
                 {
@@ -1385,6 +1781,42 @@
                 }
             ],
             "username": "YoMoBoYo"
+        },
+        {
+            "uuid": "9d7a2314-3c22-4a8a-85c0-092ee494f6fd",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "Zolcolor"
+        },
+        {
+            "uuid": "a6722e98-591f-4ae4-bf5a-6281b46097cb",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "_97h"
+        },
+        {
+            "uuid": "90785149-0727-4824-b729-45d055132884",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "__Divinity__"
         },
         {
             "uuid": "3f775be2-1e11-41c4-bba2-13aca49a5010",
@@ -1411,6 +1843,18 @@
             "username": "applepopbob"
         },
         {
+            "uuid": "db7b674e-49ac-4a1a-878f-9401148778be",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "b8ontop"
+        },
+        {
             "uuid": "aa10a352-a7c0-4038-9a16-784fb5b6a88a",
             "groups": [
                 {
@@ -1423,6 +1867,18 @@
             "username": "baitpl"
         },
         {
+            "uuid": "5d12f840-b4a4-48c6-8a65-3799f08312a1",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "betarded"
+        },
+        {
             "uuid": "96b6aad4-01a1-4392-9b92-565b4d4d5627",
             "groups": [
                 {
@@ -1433,6 +1889,18 @@
                 }
             ],
             "username": "bobbers22"
+        },
+        {
+            "uuid": "7b152e06-c26f-41c3-96be-603cd1f7add5",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "bookmc"
         },
         {
             "uuid": "16f266c5-8b0f-441f-8647-53c9f9600847",
@@ -1481,6 +1949,18 @@
                 }
             ],
             "username": "cs_italy"
+        },
+        {
+            "uuid": "6acdcde4-2ced-473b-9476-19448ba8be28",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "davidkris_13"
         },
         {
             "uuid": "29674683-1648-49b8-808d-e185cbcc9558",
@@ -1567,6 +2047,18 @@
             "username": "furleoxnop"
         },
         {
+            "uuid": "c7bcdb2d-290c-474a-b74a-752d9efd55e4",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "gardeforestier"
+        },
+        {
             "uuid": "fa114ddb-dd2e-46f6-b1e8-e23f5b9d74a0",
             "groups": [
                 {
@@ -1589,6 +2081,18 @@
                 }
             ],
             "username": "hardboiledmegs"
+        },
+        {
+            "uuid": "457720cc-7ad2-43a3-a5ec-a8e7ff1c17f5",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "hhhesto"
         },
         {
             "uuid": "73731f88-d268-4549-86c6-58f145abdd8b",
@@ -1675,6 +2179,18 @@
             "username": "joecool2012"
         },
         {
+            "uuid": "02bd2f61-32cc-4541-9dd2-8937fa48f23b",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "kraven_0420"
+        },
+        {
             "uuid": "17c3c731-f5c5-4481-871d-723d59d0faa0",
             "groups": [
                 {
@@ -1697,6 +2213,18 @@
                 }
             ],
             "username": "maliktheking"
+        },
+        {
+            "uuid": "3f58a326-099a-48e9-9fe4-e7476d075611",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "marianjoyce19"
         },
         {
             "uuid": "53d8eee7-9c71-4d24-a1f7-19362550a884",
@@ -1759,6 +2287,18 @@
             "username": "neiljojo"
         },
         {
+            "uuid": "4f1028e7-6a52-4568-910a-53ff09792b5a",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "panpsychic"
+        },
+        {
             "uuid": "64c70489-abaf-468c-8963-cf771e8b11e2",
             "groups": [
                 {
@@ -1785,6 +2325,12 @@
         {
             "uuid": "f0fcaa31-177a-4e36-bf8a-c0ba127ebb68",
             "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
             ],
             "username": "qu1r"
         },
@@ -1921,6 +2467,18 @@
             "username": "vhakan"
         },
         {
+            "uuid": "974c7a98-a12a-4dd1-90aa-dc1000be218a",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "x_4z"
+        },
+        {
             "uuid": "0bf55022-5e58-44ec-be17-6d12d6bbb918",
             "groups": [
                 {
@@ -1931,6 +2489,18 @@
                 }
             ],
             "username": "xrayessay"
+        },
+        {
+            "uuid": "77de7a0a-5368-40b6-b3ba-8b538d01d83c",
+            "groups": [
+                {
+                    "slug": "divinity",
+                    "isPrimary": true,
+                    "displayName": "Divinity",
+                    "displayOrder": 0
+                }
+            ],
+            "username": "z2_q"
         }
     ],
     "schemaVersion": 1
